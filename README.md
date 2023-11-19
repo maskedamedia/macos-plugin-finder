@@ -73,6 +73,6 @@ if you want to contribute.
 
 ## Examples
 
-![Plugin Report Example Screenshot - Show All](https://github.com/maskeproductions/mpro-plugin-finder/blob/main/Screenshot01.png)
+![Plugin Report Example Screenshot - Show All](https://github.com/maskeproductions/macos-plugin-finder/blob/main/screenshot01.png)
 
 [View Sample Plugin Report](sample_report.html)
