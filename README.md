@@ -6,7 +6,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 &nbsp;
-[![Python checks and lints](https://github.com/maskeproductions/macos-plugin-finder/actions/workflows/python-app.yml/badge.svg)](https://github.com/maskeproductions/macos-plugin-finder/actions/workflows/python-app.yml)
+[![Python checks and lints](https://github.com/maskeproductions/macos-plugin-finder/actions/workflows/python-checks-lints.yml/badge.svg)](https://github.com/maskeproductions/macos-plugin-finder/actions/workflows/python-checks-lints.yml)
+[![Python Security Checks](https://github.com/maskeproductions/macos-plugin-finder/actions/workflows/python-security-checks.yml/badge.svg)](https://github.com/maskeproductions/macos-plugin-finder/actions/workflows/python-security-checks.yml)
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)](https://github.com/maskeproductions/macos-plugin-finder/releases)
 [![Contributors](https://img.shields.io/github/contributors/maskeproductions/macos-plugin-finder)](https://github.com/maskeproductions/macos-plugin-finder/graphs/contributors)
 
