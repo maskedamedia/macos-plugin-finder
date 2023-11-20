@@ -1,15 +1,15 @@
 # macOS Audio Plugin Finder
 
-[![Build Status](https://github.com/maskeproductions/macos-plugin-finder/workflows/CI%20Build/badge.svg)](https://github.com/maskeproductions/macos-plugin-finder/actions)
+[![Python checks and lints](https://github.com/maskeproductions/macos-plugin-finder/actions/workflows/python-app.yml/badge.svg)](https://github.com/maskeproductions/macos-plugin-finder/actions/workflows/python-app.yml)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)](https://github.com/maskeproductions/macos-plugin-finder/releases)
 [![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)](https://github.com/maskeproductions/macos-plugin-finder)
 [![Downloads](https://img.shields.io/github/downloads/maskeproductions/macos-plugin-finder/total.svg)](https://github.com/maskeproductions/macos-plugin-finder/releases)
-[![GitHub Stars](https://img.shields.io/github/stars/maskeproductions/macos-plugin-finder.svg?style=social&label=Stars)](https://github.com/maskeproductions/macos-plugin-finder)
-[![GitHub Forks](https://img.shields.io/github/forks/maskeproductions/macos-plugin-finder.svg?style=social&label=Forks)](https://github.com/maskeproductions/macos-plugin-finder)
 [![Code Size](https://img.shields.io/github/languages/code-size/maskeproductions/macos-plugin-finder)](https://github.com/maskeproductions/macos-plugin-finder)
 [![Last Commit](https://img.shields.io/github/last-commit/maskeproductions/macos-plugin-finder)](https://github.com/maskeproductions/macos-plugin-finder)
 [![Contributors](https://img.shields.io/github/contributors/maskeproductions/macos-plugin-finder)](https://github.com/maskeproductions/macos-plugin-finder/graphs/contributors)
+[![GitHub Stars](https://img.shields.io/github/stars/maskeproductions/macos-plugin-finder.svg?style=social&label=Stars)](https://github.com/maskeproductions/macos-plugin-finder)
+[![GitHub Forks](https://img.shields.io/github/forks/maskeproductions/macos-plugin-finder.svg?style=social&label=Forks)](https://github.com/maskeproductions/macos-plugin-finder)
 
 ## Overview
 
