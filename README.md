@@ -1,6 +1,6 @@
 # macOS Audio Plugin Finder
 
-&nbsp;[![Code Size](https://img.shields.io/github/languages/code-size/maskeproductions/macos-plugin-finder)](https://github.com/maskeproductions/macos-plugin-finder)
+&nbsp;&nbsp;[![Code Size](https://img.shields.io/github/languages/code-size/maskeproductions/macos-plugin-finder)](https://github.com/maskeproductions/macos-plugin-finder)
 [![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)](https://github.com/maskeproductions/macos-plugin-finder)
 [![Downloads](https://img.shields.io/github/downloads/maskeproductions/macos-plugin-finder/total.svg)](https://github.com/maskeproductions/macos-plugin-finder/releases)
 [![Last Commit](https://img.shields.io/github/last-commit/maskeproductions/macos-plugin-finder)](https://github.com/maskeproductions/macos-plugin-finder)
