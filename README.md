@@ -5,13 +5,13 @@
 [![Downloads](https://img.shields.io/github/downloads/maskeproductions/macos-plugin-finder/total.svg)](https://github.com/maskeproductions/macos-plugin-finder/releases)
 [![Last Commit](https://img.shields.io/github/last-commit/maskeproductions/macos-plugin-finder)](https://github.com/maskeproductions/macos-plugin-finder)
 
-&nbpsp;
+&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python checks and lints](https://github.com/maskeproductions/macos-plugin-finder/actions/workflows/python-app.yml/badge.svg)](https://github.com/maskeproductions/macos-plugin-finder/actions/workflows/python-app.yml)
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)](https://github.com/maskeproductions/macos-plugin-finder/releases)
 [![Contributors](https://img.shields.io/github/contributors/maskeproductions/macos-plugin-finder)](https://github.com/maskeproductions/macos-plugin-finder/graphs/contributors)
 
-&nbpsp;
+&nbsp;
 [![GitHub Stars](https://img.shields.io/github/stars/maskeproductions/macos-plugin-finder.svg?style=social&label=Stars)](https://github.com/maskeproductions/macos-plugin-finder)
 [![GitHub Forks](https://img.shields.io/github/forks/maskeproductions/macos-plugin-finder.svg?style=social&label=Forks)](https://github.com/maskeproductions/macos-plugin-finder)
 
