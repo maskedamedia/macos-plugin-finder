@@ -1,5 +1,7 @@
 # macOS Audio Plugin Finder
 
+[![Python checks and lints](https://github.com/maskeproductions/macos-plugin-finder/actions/workflows/python-app.yml/badge.svg)](https://github.com/maskeproductions/macos-plugin-finder/actions/workflows/python-app.yml)
+
 ## Overview
 
 This script generates a report of audio plugins installed
